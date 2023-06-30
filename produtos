@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+ <head>
+ <meta charset="UTF-8" />
+ <title>membros funçoes</title>
+ <link rel="stylesheet" href="style.css">
+ </head>
+ <body>
+ <header>
+ <text-align></text-align>
+ <img src="proof-bts-2.jpg"width="600">
+
+ <ul>
+ <li><a href="index.html_.html"> BTS MEMBROS</a></li>
+
+ <div>
+    <caixa>
+<main>
+ <li>CANTOR PRINCIPAL</li>
+ <h1>Jeon jungkook</h1>
+ </main>
+</caixa>
+</div>
+ <li>RAPPERS</li>
+ <h1>Min yoongi,Kim nam-joon e Jung hoseok</h1>
+
+ <li>VOZ</li>
+ <h1>Seok jin</h1>
+
+ <li>VOCAL PRINCIPAL</li>
+ <h1>Park jimin e Kim tae-hyung</h1>
+
+ </ul>
+ </header>
+</body>
+</html>
+
