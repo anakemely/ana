@@ -1,0 +1,22 @@
+body{
+    background-color:rebeccapurple
+}
+.p{
+    text-align: center;
+}
+h1  { <header>
+    text-align: center
+
+}
+p{
+    text-align: center
+}
+#missao{
+    font-size: 20px;
+}
+.strong{
+    font-style:italic;
+}
+em strong { 
+    color:black
+}body 
